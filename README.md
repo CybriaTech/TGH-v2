@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img width="750px" src="/img/tgh/tgh-inverted.png">
+    <img width="350px" src="/img/tgh/tgh-inverted.png">
   </kbd>
 </p>
 
